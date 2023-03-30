@@ -1,0 +1,10 @@
+/venv
+/input
+/aux_file
+/output
+/log
+.ipynb_checkpoints
+validacion_datos_output.ipynb
+preprocesamiento_output.ipynb
+prediccion_output.ipynb
+modelo_output.ipynb
